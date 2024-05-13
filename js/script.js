@@ -11,6 +11,8 @@ async function pegarProdutos() {
         const secao = document.createElement("section");
         secao.className("secao-produtos")
         const div = document.createElement("div");
+        div.className("lista-produtos");
+        
 
     })
 }
