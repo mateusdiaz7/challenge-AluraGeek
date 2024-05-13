@@ -8,11 +8,15 @@ async function pegarProdutos() {
     console.log(data);
 
     data.map((produto) => {
-        const secao = document.createElement("section");
-        secao.className("secao-produtos")
-        const div = document.createElement("div");
-        div.className("lista-produtos");
-        
+        const valorProduto = document.createElement("h2");
+        const nomeProduto = document.createElement("h2");
+        const imagemProduto = document.createElement("img");
+
+        imagemProduto.innerHTML = produto.imagem;
+        valorProduto.innerHTML = produto.preco;
+        nomeProduto.innerText = produto.nome;
+        secaoProdutos.appendChild(valorProduto)
+        secaoProdutos.appendChild(nomeProduto);
 
     })
 }

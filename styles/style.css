@@ -194,6 +194,10 @@ footer > p {
 
 }
 
+.indsiponivel {
+    color: red;
+}
+
 @media (min-width: 1400px) {
     main {
         display: flex;
