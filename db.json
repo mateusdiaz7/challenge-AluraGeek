@@ -1,0 +1,40 @@
+{
+    "produtos": [
+        {
+            "nome": "Boneco Lego Stormtropper",
+            "preco": "30",
+            "imagem": "https://cdn.awsli.com.br/600x450/297/297688/produto/9307176/16a50c11c5.jpg",
+            "id": 1
+        },
+        {
+            "nome": "Boneco Pokemon Scyther",
+            "preco": "70",
+            "imagem": "https://images.tcdn.com.br/img/img_prod/1017123/pokemon_figuras_de_acao_scyther_8011_1_aaece68bd5a3ac947e675615e95ca4b2.jpg",
+            "id": 2
+        },
+        {
+            "nome": "Boneco pokemon Lucario",
+            "preco": "80",
+            "imagem": "https://images.tcdn.com.br/img/img_prod/1017123/pokemon_boneco_super_articulada_de_15_cm_do_lucario_8163_1_3b90f659c0d4b063c66f96f762c82475.jpg",
+            "id": 3
+        },
+        {
+            "nome": "Boneco pokemon Zapdos",
+            "preco": "75",
+            "imagem": "https://images.tcdn.com.br/img/img_prod/1017123/pokemon_boneco_super_articulada_de_15_cm_do_zapdos_8161_1_5b843ca82cab8ba78841826e2db48fd0.jpg",
+            "id": 4
+        },
+        {
+            "nome": "Boneco pokemon Charizard",
+            "preco": "90",
+            "imagem": "https://images.tcdn.com.br/img/img_prod/1017123/pokemon_boneco_super_articulada_de_15_cm_do_charizard_8159_1_d746dceb71a7a82c93f53afef0d9ffed.jpg",
+            "id": 5
+        },
+        {
+            "nome": "Boneco pokemon Pikachu",
+            "preco": "100",
+            "imagem": "https://images.tcdn.com.br/img/img_prod/1017123/pokemon_meu_parceiro_pokemon_1803_1_1ae610a641f2edd4746626d709980c79.jpg",
+            "id": 6
+        }
+    ]
+}
